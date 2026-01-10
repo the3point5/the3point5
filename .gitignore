@@ -1,0 +1,23 @@
+# --- Security & Secrets ---
+# Never track environment files that hold keys or passwords
+.env
+.env.local
+.env.*.local
+
+# --- System Files ---
+# Ignore Mac/Windows folder metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Development "Junk" ---
+# If you eventually use Node.js for the dashboard/token
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# --- Temporary/Backup Files ---
+# Ignore autosaves from Word or Text Editors
+*.tmp
+*.bak
+~$*
