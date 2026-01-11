@@ -1,5 +1,6 @@
 # The National Renewal Manifesto: A Social Contract for Sovereignty
 The Vision: A Legacy of Energy Independence
+
 For too long, the United Kingdom has been at the mercy of global energy markets and chronic underinvestment. The National Renewal Fund (NRF) is our generation’s answer: a permanent, publicly owned investment vehicle designed to build a national green energy asset base that belongs to the people of this country.
 
 This is not a temporary subsidy or a government grant. It is a national energy endowment—a self-sustaining shield that will lower energy bills, protect British industry, and secure our sovereignty for generations to come.
