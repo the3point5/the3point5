@@ -1,9 +1,11 @@
 # Treasury White Paper: The National Renewal Fund (NRF)
 
 🎯 1. Executive Mandate and Purpose
+
 The National Renewal Fund (NRF) is established as a permanent, publicly owned investment vehicle designed to build a national green energy asset base for the United Kingdom. Its primary purpose is to deliver cheap, reliable, clean electricity, strengthen national energy security, and improve UK productivity. The NRF resolves chronic underinvestment by creating a dedicated, ring-fenced fund for long-term infrastructure.
 
 ⚖️ 2. Fiscal Strategy and Neutrality
+
 The NRF utilizes a capital-to-asset conversion model to ensure total fiscal neutrality.
 
 🛡️ Ring-Fencing: All capital contributions are legally restricted to the creation of income-generating infrastructure.
@@ -13,6 +15,7 @@ The NRF utilizes a capital-to-asset conversion model to ensure total fiscal neut
 🌅 Success-Bound Sunset Clause: The mandate for decadal contributions expires automatically upon the Fund achieving a £80bn asset base and £4bn annual operating surplus.
 
 💰 3. Capitalisation and Revenue Framework
+
 The Fund is capitalised through limited, decadal contributions from the wealthiest individuals and largest UK-facing corporations.
 
 👤 Individual Threshold: Assets above £100 million.
@@ -30,6 +33,7 @@ The Fund is capitalised through limited, decadal contributions from the wealthie
 ⏱️ Amnesty Window: A one-time 120-day self-correction window at launch encourages compliance and rewards proactive participation.
 
 🏗️ 4. Investment Strategy and Risk Management
+
 The Fund focuses on regulated, long-life, income-generating infrastructure assets.
 
 🔋 Phase 1: Grid-Scale Storage: Immediate priority to stabilise the electricity market using technology-agnostic solutions, with sodium-ion as the baseline.
@@ -41,6 +45,7 @@ The Fund focuses on regulated, long-life, income-generating infrastructure asset
 🚢 Phase 4: Exports and Interconnection: Enabling international energy exports to turn the UK into a net exporter of clean energy.
 
 🔐 5. Governance Architecture: The "Double-Lock"
+
 To ensure absolute market confidence and protect the Fund from political interference, the NRF operates under a statutory "Double-Lock" model.
 
 🏛️ Independent Body: The NRF operates at arm's length from government as a commercial entity led by infrastructure and industrial experts.
