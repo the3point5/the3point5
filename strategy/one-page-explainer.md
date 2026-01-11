@@ -4,6 +4,7 @@
 The National Renewal Fund (NRF) is a permanent, publicly owned investment vehicle designed to build a national green energy asset base for the United Kingdom. It is established as a national energy endowment fund—similar to a sovereign wealth fund—focused specifically on clean infrastructure to move the UK from a system of volatile costs to a state of permanent energy sovereignty.
 
 ❓ Why is it Necessary?
+
 The NRF addresses three critical systemic failures currently impacting the UK economy:
 
 📉 Energy Cost Volatility: Reducing high exposure to global fossil fuel price shocks.
