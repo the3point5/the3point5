@@ -1,5 +1,6 @@
 # Ad Spend & Campaign Strategy: Scaling the 3.5%
 🎯 1. Campaign Objective
+
 To mobilize 2.35 million UK citizens into a unified, non-partisan voting bloc.
 
 The campaign is designed to move supporters through a three-stage funnel: Awareness, Education, and Mobilization.
