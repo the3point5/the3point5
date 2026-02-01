@@ -16,8 +16,6 @@ Plaintext
 
 ─── 🛡️ [SECURITY.md](./SECURITY.md)              # Data protection & security protocols
 
-─── 🚫 [.gitignore](.gitignore)                # Shield for internal configuration
-
 └── 📂 /strategy                # Core Narrative & Logic
 
 ─── 📜 [manifesto.md](./strategy/manifesto.md)         # The Vision for the UK
