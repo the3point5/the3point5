@@ -1,57 +1,74 @@
-# The National Renewal Manifesto: A Social Contract for Sovereignty
-The Vision: A Legacy of Energy Independence
+# The National Renewal Fund Manifesto
 
-For too long, the United Kingdom has been at the mercy of global energy markets and chronic underinvestment. The National Renewal Fund (NRF) is our generation’s answer: a permanent, publicly owned investment vehicle designed to build a national green energy asset base that belongs to the people of this country.
+## The vision
 
-This is not a temporary subsidy or a government grant. It is a national energy endowment—a self-sustaining shield that will lower energy bills, protect British industry, and secure our sovereignty for generations to come.
+The National Renewal Fund (NRF) is a permanent, publicly owned national energy endowment designed to build and retain income-generating energy infrastructure for the United Kingdom.
 
-🗳️ The Power of 3.5%: Our Democratic Mandate
+Its purpose is to deliver cheaper, more reliable and cleaner energy, strengthen energy security, improve productivity and leave a lasting economic asset for future generations.
 
-History shows that when 3.5% of a population unites behind a single goal, systemic change becomes inevitable.
+The NRF converts finite capital contributions into productive public assets. Revenues from those assets are reinvested until the Fund can finance its approved long-term investment programme from its own operating cashflows.
 
+## The capitalisation framework
 
-The Target: 2.35 million UK citizens.
+Every decade, the wealthiest individuals and the largest UK economic footprints contribute to capitalising the national asset.
 
+- **Individuals:** UK-based net assets above £100 million.
+- **Corporate groups:** liability is assessed using **UK Economic Footprint Revenue (UK-EFR)** rather than simply the turnover booked by a UK subsidiary. UK-EFR captures economic activity derived from UK customers and users, including relevant advertising, marketplace, intermediation and digital-service revenues regardless of where contracts or invoices are located.
+- **Rates:** 1% Voluntary Tier, 2% Statutory Tier and 3% Enforcement Tier.
+- **Affordability protection:** corporate liability is subject to an Adjusted UK Economic Profit ceiling designed to protect genuinely low-margin activity without allowing profit shifting, royalties, interest, management charges or artificial cashflow arrangements to erase liability. Genuine liquidity difficulty may affect payment timing, not the underlying amount due.
 
-The Pledge: A unified voting bloc committed to one objective—voting for whichever party officially adopts the NRF into its manifesto.
+The contribution mechanism is finite. It is intended to capitalise a permanent national asset, not become a permanent general-purpose tax.
 
-The Ultimatum: When we reach the 3.5% threshold, we present a 72-hour window for party leaders to commit. We are not just asking for change; we are making it the price of entry for those who wish to govern.
+## Investment strategy
 
-🤝 The Social Contract: A Patriotic Dividend
+The NRF follows a phased, commercially disciplined investment strategy.
 
-The NRF is built on the principle of Public Reciprocity. We believe those who have gained the most from the UK’s economy should have the high honour of securing its future.
+### Phase 1 — Grid-scale storage
 
-🏛️ The Contribution
+Storage is the first system priority. Procurement is technology-neutral and competitive. Sodium-ion is one candidate alongside LFP and other battery chemistries, pumped hydro, flow batteries, compressed-air, thermal storage and future technologies.
 
-Every ten years, the wealthiest individuals (net assets >£100m) and largest UK-facing corporations (revenue >£25m) will provide a one-off capital contribution. This is a time-limited mission to capitalise a permanent asset, not an open-ended tax.
+Tenders should be assessed against whole-life cost per MWh delivered, discharge duration, cycle life, degradation, round-trip efficiency, safety, recyclability, UK supply-chain resilience and content, build time, land and grid constraints, availability, and expected grid-service and arbitrage revenues.
 
-📈 The Reciprocal Benefit
+### Phase 2 — Renewable generation
 
-In exchange for this stewardship, the nation receives:
+Expand wind, solar, tidal and other suitable generation integrated with the storage fleet.
 
+### Phase 3 — Electrification and efficiency
 
-Immediate Grid Stability: Prioritising grid-scale storage to eliminate volatility and lower standing charges.
+Support productive electrification, network resilience and efficiency measures that reduce long-term energy costs for households and businesses.
 
-Industrial Competitiveness: Slashing energy overheads for SMEs and manufacturers to protect British jobs.
+### Phase 4 — Interconnection and exports
 
-The Household Dividend: Applying operational surpluses directly to residential bill reduction.
+Develop export and interconnection opportunities where they strengthen domestic resilience and create additional national income.
 
-⚖️ The Double-Lock: Protection Beyond Politics
+## Public benefit
 
-To ensure this asset is never raided for short-term political gains, the NRF is protected by a statutory "Double-Lock".
+The NRF is intended to create a direct social return from productive national ownership.
 
-Independent Governance: Led by infrastructure experts and arm's-length from the Treasury.
+As the asset base matures, benefits may include lower system costs, reduced exposure to global price shocks, stronger industrial competitiveness and a defined Household Energy Dividend where sustainable operating surpluses permit it.
 
-Dual Mandate: Any change to the Fund’s purpose requires a supermajority in Parliament and formal approval from the Independent Board.
+## Governance and independence
 
-⌛ The Sunset Clause: A Mission with an End
+The NRF operates at arm's length from day-to-day government under a statutory governance framework.
 
-The NRF is a build-and-finish project. Once the Fund achieves a £80bn asset base and a £4bn annual surplus, it becomes fully self-financing. At that moment, the contribution mechanism is permanently rescinded.
+Capital and revenues are ring-fenced for the Fund's energy-infrastructure mandate. The governance architecture is designed to **create exceptional statutory and institutional barriers to political interference**.
 
-We build the asset. We secure the country. We finish the job. 
+Material changes to the NRF's founding purpose or Sunset Clause require enhanced parliamentary approval together with formal approval through the independent governance structure. Accounts are independently audited and key investment, capacity and revenue metrics are published through a National Energy Dashboard.
 
-🚀 The Time is Now
+## The Sunset Clause
 
-The choice is simple: continue with the status quo of volatile bills and national exposure, or join the 3.5% and build a permanent foundation of wealth for the United Kingdom.
+The contribution mechanism ends when independently audited forecasts demonstrate that recurring NRF operating cashflows, after maintenance, required reserves and statutory resilience requirements, are sufficient to finance the Fund's approved long-term infrastructure investment programme without further external capital contributions.
 
-"Securing the Future through National Unity."
+A maximum of four decadal contribution cycles provides an absolute backstop. Operational self-sufficiency may end contributions earlier.
+
+The assets remain publicly owned after contributions end.
+
+## The 3.5% Movement
+
+The 3.5% figure is an organising inspiration and mobilisation target, drawing on research into the influence of highly engaged non-violent movements. It is not a prediction that any particular percentage of support guarantees policy adoption or an electoral result.
+
+The campaign's objective is to build measurable public support, subject the proposal to serious scrutiny and invite every major political party to publish a formal position on the NRF.
+
+Supporters may also **Give a Quid**: an optional £1 contribution that demonstrates active commitment and helps create a broad grassroots funding base.
+
+The aim is simple: build a serious, transparent and independently scrutinised proposal for a permanent national energy asset.

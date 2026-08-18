@@ -1,46 +1,86 @@
-# CSR Partnership Briefing: The National Renewal Fund (NRF)
-🏢 Purpose of Engagement
+# Founding Partner Briefing: The National Renewal Fund
 
-The National Renewal Fund (NRF) offers the UK’s leading corporations a unique opportunity to transition from passive tax compliance to active national leadership. This briefing outlines the Social Leadership Tier, designed for organizations committed to the long-term energy security and economic prosperity of the United Kingdom.
+## Purpose
 
-🎖️ The "Founding Partner" Opportunity
+The National Renewal Fund offers major UK-facing corporate groups an opportunity to participate proactively in building a permanent national energy asset.
 
-Under the NRF framework, corporations with UK-facing revenue exceeding £25 million are invited to join the 1% Voluntary Tier. By opting into this tier proactively, businesses secure "Founding Partner" status, unlocking significant strategic and reputational advantages.
+The **1% Voluntary Tier** recognises organisations that choose early participation as Founding Partners while preserving the NRF's independence, competitive procurement and public-interest mandate.
 
-🌟 Benefits of the Voluntary Tier
+## UK Economic Footprint
 
-Preferential Rate: Access to the baseline 1% contribution rate, avoiding the higher statutory (2%) or enforcement (3%) tiers.
+Corporate participation is based on a group's **UK Economic Footprint Revenue (UK-EFR)** rather than only the turnover booked by a UK subsidiary.
 
-Strategic Branding: Authorization to use the "National Renewal Partner" seal on all corporate communications, products, and annual reports.
+The framework is intended to reflect the economic value a group derives from UK customers and users, including relevant digital, advertising, marketplace and intermediation activity irrespective of the location of the contracting entity.
 
-Governance Influence: Eligibility for representation on the NRF Industrial Advisory Board, helping to shape the technical rollout of Phase 1 and Phase 2 infrastructure.
+Corporate liability includes an affordability ceiling based on Adjusted UK Economic Profit so that genuinely low-margin businesses are protected without allowing profit shifting or artificial intra-group charges to undermine the mechanism.
 
-ESG Leadership: Direct alignment with Environmental, Social, and Governance (ESG) goals through a verifiable contribution to national decarbonization and energy poverty reduction.
+## Founding Partner status
 
-🏗️ Direct Economic ROI for Partners
+Corporate groups entering the 1% Voluntary Tier during the statutory participation window may qualify for Founding Partner status.
 
-Participation in the NRF is a strategic investment in the business environment of the UK. The fund’s success provides direct operational benefits to corporate partners:
+Founding Partner recognition may include:
 
-⚡ Stabilized Overhead: Reducing the volatility of industrial energy prices through grid-scale storage.
+- participation in a **non-voting Industrial Advisory Forum**;
+- consultation on published strategic and technical questions;
+- standardised technical briefings on NRF programmes and market development;
+- controlled use of NRF Founding Partner accreditation; and
+- public recognition of the contribution through the NRF transparency framework.
 
-🛡️ Supply Chain Resilience: Protecting domestic suppliers from energy-driven insolvency.
+These benefits are consultative and reputational. They do **not** provide:
 
-📉 Lower Levies: The eventual elimination of green levies on industrial energy bills as the NRF reaches self-sufficiency.
+- preferential treatment in procurement;
+- guaranteed contracts;
+- preferential access to energy capacity;
+- privileged market-sensitive information;
+- control over NRF investment decisions; or
+- any settlement, forgiveness or compromise of existing tax obligations or disputes.
 
-⚖️ The Reciprocal Social Contract
+## Why participate?
 
-The NRF operates on the principle of Public Reciprocity. In exchange for corporate leadership, the movement provides:
+### Energy-system resilience
 
-📢 Positive Public Sentiment: Large-scale recognition via the National Energy Dashboard, showing the direct impact of partner contributions.
+NRF investment in storage, generation and supporting infrastructure is intended to reduce exposure to volatile energy markets and strengthen the operating environment for UK businesses.
 
-🏛️ Political Stability: Supporting a non-partisan mission that reduces social friction and promotes national unity.
+### Long-term competitiveness
 
-⏱️ The 120-Day Self-Correction Window
+More resilient energy infrastructure can improve the attractiveness of UK investment, manufacturing and supply chains.
 
-Upon the legislative enactment of the NRF, a 120-day "Amnesty and Alignment" window will open. Corporations that formalize their commitment within this period will be grandfathered into the 1% Voluntary Tier regardless of future statutory adjustments.
+### Tangible national contribution
 
-🚀 Conclusion: A Legacy Mission
+Founding Partner participation converts a defined contribution into productive infrastructure rather than general expenditure. The resulting assets remain in public ownership and are intended to generate continuing national income.
 
-The NRF is not a cost to be managed; it is a legacy to be built. We invite the UK’s corporate leaders to move beyond short-term fiscal cycles and join us in securing the sovereign future of the United Kingdom.
+### Transparent recognition
 
-"Building a Resilient Britain, Together."
+Participation and aggregate deployment can be reported through the National Energy Dashboard, allowing the public to see how capital is being converted into infrastructure.
+
+## Industrial Advisory Forum
+
+The Industrial Advisory Forum provides structured engagement between the NRF and participating industry without compromising independent governance.
+
+Its role may include:
+
+- identifying infrastructure constraints affecting UK industry;
+- providing technical evidence on future electricity demand;
+- advising on supply-chain capability and investment barriers;
+- contributing evidence to published consultations; and
+- identifying opportunities for UK manufacturing and skills development.
+
+The Forum is advisory only. NRF investment and procurement decisions remain subject to independent governance, published criteria and applicable competition and procurement requirements.
+
+## The participation window
+
+A 120-day launch window provides an opportunity for eligible groups to register proactively for the 1% Voluntary Tier, subject to the final statutory rules.
+
+The window is intended to encourage early participation and reduce avoidable enforcement activity. Existing tax obligations remain entirely separate from the NRF.
+
+## A finite commitment
+
+The NRF contribution mechanism is governed by its Sunset Clause. Contributions end when independently audited forecasts demonstrate that recurring NRF operating cashflows can finance the approved long-term infrastructure programme, maintenance, required reserves and resilience requirements without further external capital contributions.
+
+A maximum of four decadal contribution cycles provides an absolute backstop.
+
+Founding Partners are therefore helping to capitalise an institution intended ultimately to finance its own continued development.
+
+## Principle
+
+The Founding Partner framework is designed around **participation without capture**: major companies can contribute expertise, evidence and capital to the national mission, but the NRF remains a publicly owned institution governed in the public interest.
