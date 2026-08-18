@@ -1,43 +1,76 @@
-# Legislative Framework: The "Double-Lock" Independence
+# Legislative Framework: NRF Independence and Protection
 
-1 - Statutory Establishment
+## 1. Statutory establishment
 
-The National Renewal Fund (NRF) shall be established via a dedicated Act of Parliament. This legislation defines the NRF as an independent statutory body, legally distinct from the Treasury and the Department for Energy Security and Net Zero. Its primary mandate is the stewardship and expansion of the UK’s energy asset base.
+The National Renewal Fund (NRF) is proposed as an independent statutory body with a defined mandate to acquire, develop, steward and expand productive UK energy infrastructure.
 
-2 - The "Double-Lock" Governance Mechanism
+The detailed constitutional and public-accounting treatment must be settled during legislative development. The objective is an institution operating commercially at arm's length from day-to-day government while remaining accountable to Parliament and the public.
 
-To ensure the Fund is never liquidated or repurposed for short-term political spending, the NRF is protected by a dual-layered security architecture.
+## 2. Governance architecture
 
-Lock 1: Parliamentary Supermajority: Any legislative amendment to the NRF’s core purpose, the Sunset Clause, or its capital ring-fencing requires a two-thirds supermajority vote in the House of Commons.
+The NRF framework is designed to **create exceptional statutory and institutional barriers to political interference**.
 
-Lock 2: Independent Board Approval: Even with a supermajority, no changes can be enacted without the formal, written consent of the NRF Board of Trustees, an apolitical body composed of infrastructure, legal, and industrial experts.
+The founding legislation should establish enhanced safeguards around:
 
-3 - Asset Ring-Fencing and Fiscal Integrity
+- the Fund's statutory purpose;
+- asset and revenue ring-fencing;
+- the contribution Sunset Clause;
+- disposal of strategically significant assets; and
+- changes capable of converting the NRF into a source of general government expenditure.
 
-The Framework creates a "Legal Firewall" around the Fund’s capital.
+The intended Double-Lock combines enhanced parliamentary approval requirements with formal approval through an independent NRF governance body. The exact mechanism must be tested against UK constitutional law during legislative drafting rather than presented as overriding Parliament's ultimate legislative authority.
 
-Non-Diversion Clause: By law, NRF capital and operational surpluses cannot be transferred into the Consolidated Fund or used to offset general government borrowing.
+## 3. Independent governance
 
-Asset Protection: The energy assets (storage facilities, generation plants, and grids) are held in a permanent public trust. They cannot be privatized or sold without meeting the supermajority and Board approval requirements.
+The NRF should be governed by an independent board selected through a transparent appointments process and including appropriate expertise in energy infrastructure, investment, economics, engineering, law, consumer interests and public governance.
 
-4 - The Sunset Clause: Trigger-Based Decommissioning
+Corporate Founding Partners may contribute through a separate non-voting Industrial Advisory Forum. Advisory participation does not confer control over investment, procurement or statutory governance.
 
-The legislation includes a "Success-Bound Sunset Clause." The authority to collect decadal contributions is not indefinite; it is legally tied to performance metrics.
+## 4. Asset and revenue ring-fencing
 
-Trigger A: The Fund achieves a verified asset valuation of £80 billion.
+Capital contributions and NRF operating revenues are restricted to the statutory energy-infrastructure mandate, including required reserves, maintenance and approved investment programmes.
 
-Trigger B: The Fund generates a consistent net operating surplus of £4 billion per annum.
+Asset disposals must be governed by clear statutory tests designed to prevent the Fund being dismantled for short-term fiscal purposes while allowing commercially necessary portfolio management.
 
-Automatic Rescission: Once either trigger is met, the statutory power to levy contributions is automatically rescinded, and the Fund shifts to a 100% self-financing model.
+## 5. Sunset Clause
 
-5 - Transparency and Digital Oversight
+The authority to collect contributions ends when independently audited forecasts demonstrate that recurring NRF operating cashflows, after maintenance, required reserves and statutory resilience requirements, are sufficient to finance the Fund's approved long-term infrastructure investment programme without further external capital contributions.
 
-The Act mandates the maintenance of the National Energy Dashboard.
+A maximum of four decadal contribution cycles is an absolute backstop. Operational self-sufficiency may terminate contributions earlier.
 
-Real-Time Audit: The Dashboard must provide live data on capital deployment, asset construction progress, and revenue generation.
+Ending the contribution mechanism does not terminate the NRF. The institution and its productive assets continue operating and reinvesting under the statutory mandate.
 
-Public Reporting: An annual "State of the Fund" report must be delivered to the public, detailing how the "Patriotic Dividend" is being applied to reduce household and industrial energy costs.
+## 6. Corporate contribution integrity
 
-6 - The 120-Day Compliance Window
+Corporate liability is assessed at consolidated-group level through UK Economic Footprint Revenue, with connected-entity aggregation and anti-fragmentation rules.
 
-The framework allows for a "Self-Correction" period immediately following the Act’s commencement. This provides a legal pathway for individuals and corporations to declare their assets and move from the Statutory Tier (2%) to the Voluntary Tier (1%), ensuring high initial compliance and collaborative implementation.
+An affordability ceiling based on Adjusted UK Economic Profit protects genuine low-margin activity while using consolidated and apportioned profit measures to prevent artificial erosion through intra-group royalties, interest, management charges or profit shifting.
+
+Genuine liquidity difficulty may alter approved payment timing but does not automatically reduce the liability.
+
+The final mechanism requires detailed tax-law drafting, administrative modelling and compatibility assessment with existing UK and international tax obligations.
+
+## 7. Transparency and public oversight
+
+The legislation should require:
+
+- independently audited annual accounts;
+- publication of investment and procurement frameworks;
+- transparent reporting of asset performance and reinvestment;
+- a public National Energy Dashboard;
+- periodic independent evaluation of investment performance and public benefit; and
+- regular parliamentary reporting.
+
+## 8. 120-day participation window
+
+A 120-day launch window allows eligible individuals and corporate groups to register proactively for the 1% Voluntary Tier under the final statutory rules.
+
+The window is a compliance and participation mechanism. Existing tax liabilities and disputes remain separate from the NRF.
+
+## 9. Devolved-nation participation
+
+The NRF is proposed as a UK-wide institution, while recognising the distinct responsibilities and priorities of the devolved administrations.
+
+Its governance and investment framework should provide structured participation for Scotland, Wales and Northern Ireland in relevant investment planning, while respecting the division between devolved and reserved powers.
+
+This can support regionally appropriate programmes in storage, generation, networks and associated infrastructure without fragmenting the national asset base.
