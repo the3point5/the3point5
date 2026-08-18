@@ -1,56 +1,58 @@
-# Privacy Policy: The 3.5% Movement & NRF
-⚖️ 1. Our Privacy Philosophy: "Data Minimalism"
+# Privacy Principles: The 3.5% Movement
 
-The 3.5% Movement is built on the principle of Data Minimalism. We believe that your participation in a democratic mandate should not come at the cost of your personal privacy. We only collect the absolute minimum information required to verify your status as a UK resident and to validate our 2.35 million supporter threshold.
+## 1. Data minimisation
 
-🔍 2. Information We Collect
+The campaign should collect only the personal information reasonably required to operate the movement, communicate with supporters, process contributions and meet legal obligations.
 
-To maintain the integrity of the "3.5% Mandate" while protecting your identity, we collect:
+Support for the National Renewal Fund should not require people to provide unnecessary identity documents or sensitive personal information.
 
-Verification Data: Name and UK Postcode (used solely to map supporters to Swing Seats).
+## 2. Information used by the campaign
 
-Contact Data: An email address or mobile number for critical movement updates and the final "Voting Instructions."
+Depending on the services a supporter chooses to use, the campaign may process:
 
-Pledge Status: A simple "Yes/No" record of your support for the National Renewal Fund.
+- contact information such as an email address;
+- supporter registration status;
+- optional geographic information where a supporter chooses to provide it for aggregate regional reporting; and
+- payment information necessary to process a Give a Quid contribution, handled through the campaign's payment provider.
 
-We do NOT collect: National Insurance numbers, specific street addresses, financial records, or browsing history.
+The campaign should not collect passport, driving-licence or National Insurance information merely to register support or accept a £1 contribution.
 
-🔐 3. Security and Encryption
+## 3. Give a Quid
 
-Your data is stored using AES-256 military-grade encryption.
+Give a Quid is an optional £1 campaign contribution and a tangible expression of support.
 
-🚫 Zero External Access: We do not sell, rent, or trade your data with third parties, political parties, or government agencies.
+Payment processing should use established providers and their standard security and fraud controls. The campaign should retain only the payment records necessary for accounting, legal compliance and transparent financial reporting.
 
-🛡️ 2FA Protected: Access to the supporter database is restricted to a handful of "Security Cleared" administrators via mandatory Two-Factor Authentication.
+## 4. Supporter integrity
 
-📍 4. Geographic Mapping (The "Bloc" Logic)
+The campaign may use proportionate measures such as email confirmation, bot protection, rate limiting and basic duplicate detection to maintain useful supporter statistics.
 
-We use your postcode to aggregate supporters into "Constituency Blocs."
+Published supporter figures represent registered expressions of support. They are not presented as an independently verified electoral register, scientific opinion poll or guarantee of voting behaviour.
 
-Public Dashboard: The National Energy Dashboard only displays anonymised counts (e.g., "3,400 supporters in Manchester Central").
+## 5. Security
 
-Individual Privacy: No individual's identity or specific location is ever revealed on public-facing tools.
+Personal information should be protected using appropriate technical and organisational controls, including encryption where appropriate, access controls, multi-factor authentication for administrative systems, secure backups, monitoring and incident-response procedures.
 
-⌛ 5. Data Retention and the Sunset Clause
+Security claims should reflect the controls actually implemented and independently tested rather than rely on marketing terminology.
 
-Your data is held only for as long as the movement is active.
+## 6. Public reporting
 
-Mission Success: Once the NRF is enshrined in law and the Sunset Clause is triggered, the 3.5% Movement database will be permanently purged and destroyed.
+Public dashboards should report aggregated supporter and contribution information. Individual supporter identities and contact details should not be displayed publicly.
 
-The Right to be Forgotten: You may withdraw your pledge and request the immediate deletion of your data at any time via a simple "One-Click" removal tool.
+Where regional or constituency information is published, aggregation thresholds should be used where necessary to avoid identifying individuals.
 
-6 EU GDPR and UK Data Rights
+## 7. Use of supporter information
 
-We operate in full compliance with the UK General Data Protection Regulation (UK GDPR). You have the right to:
+Supporter information should not be sold or commercially exploited.
 
-Access the data we hold about you.
+Any sharing with service providers should be limited to what is necessary to operate the campaign and governed by appropriate data-processing arrangements.
 
-Correct any inaccuracies.
+## 8. Retention and supporter rights
 
-Object to specific processing of your data.
+Personal information should be retained only for as long as it is required for its stated purpose or applicable legal obligations.
 
-Request data portability.
+Supporters should have clear routes to exercise applicable UK data-protection rights, including access, correction, objection and deletion where those rights apply.
 
-📢 7. Policy Updates
+## 9. Formal privacy notice
 
-As the movement scales toward the 2.35 million threshold, we may update this policy to reflect new security technologies. Any major changes will be broadcast directly to all supporters via the National Energy Dashboard.
+Before the public campaign begins collecting personal information, these principles should be converted into a formal privacy notice reflecting the actual website, payment providers, mailing systems, lawful bases, retention periods, processors and contact arrangements in use at launch.
