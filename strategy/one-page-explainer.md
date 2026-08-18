@@ -1,54 +1,56 @@
-# One-Page Explainer: The National Renewal Fund (NRF)
-🏛️ What is the National Renewal Fund?
+# The National Renewal Fund — One-Page Explainer
 
-The National Renewal Fund (NRF) is a permanent, publicly owned investment vehicle designed to build a national green energy asset base for the United Kingdom. It is established as a national energy endowment fund—similar to a sovereign wealth fund—focused specifically on clean infrastructure to move the UK from a system of volatile costs to a state of permanent energy sovereignty.
+## What is it?
 
-❓ Why is it Necessary?
+The **National Renewal Fund (NRF)** is a permanent, publicly owned national energy endowment. It builds and owns productive UK energy infrastructure, generating energy and long-term national income.
 
-The NRF addresses three critical systemic failures currently impacting the UK economy:
+Rather than using capital for day-to-day public spending, the NRF converts finite contributions into assets that remain in public ownership and generate revenues of their own.
 
-📉 Energy Cost Volatility: Reducing high exposure to global fossil fuel price shocks.
+## Why does it matter?
 
-🏗️ Underinvestment: Solving the historic lack of long-term capital dedicated to national energy infrastructure.
+Britain faces high and volatile energy costs, underinvestment in infrastructure and continuing exposure to international energy shocks.
 
-⚙️ Productivity Constraints: Lowering high energy overheads that stifle growth for both British businesses and households.
+The NRF is designed to build a permanent productive asset base that strengthens energy security, supports lower long-term energy costs and improves UK competitiveness.
 
-💰 How is it Funded?
+## How is it capitalised?
 
-The fund is capitalized through a one-off, decadal capital contribution from those with the broadest economic shoulders. This is not an ongoing tax, but a time-limited capitalization of a permanent national asset.
+Every ten years, limited capital contributions apply to:
 
-👤 Wealthy Individuals: Those with UK-based net assets exceeding £100 million.
+- individuals with more than **£100 million in UK-based net assets**; and
+- large corporate groups according to their **UK Economic Footprint**, rather than simply the revenue booked by a UK subsidiary.
 
-🏢 Large Corporations: UK-facing companies with annual revenues over £25 million.
+Corporate contributions include an affordability protection based on Adjusted UK Economic Profit. The mechanism is designed so that genuine low-margin activity is protected while profit shifting, internal charges or artificial cashflow arrangements cannot simply remove the liability.
 
-📊 Tiered Rates: Contributions are structured as 1% Voluntary, 2% Statutory, or 3% Enforcement to reward proactive participation.
+The rates are structured as a **1% Voluntary Tier, 2% Statutory Tier and 3% Enforcement Tier**.
 
-🏗️ What Does the Money Build?
+## What does the money build?
 
-The NRF follows a disciplined, phased rollout focusing on regulated, long-life infrastructure:
+The NRF follows a phased strategy:
 
-🔋 Phase 1: Grid-scale energy storage to stabilize the market.
+1. **Grid-scale energy storage** — the first system priority, procured competitively across suitable technologies.
+2. **Renewable generation** — including wind, solar and tidal where commercially appropriate.
+3. **Electrification and efficiency** — supporting networks, productive electrification and lower long-term energy costs.
+4. **Interconnection and exports** — creating additional resilience and income where feasible.
 
-🌬️ Phase 2: Wind, solar, and tidal power generation.
+Storage procurement is technology-neutral. Technologies are assessed against characteristics including whole-life cost per MWh, discharge duration, cycle life, degradation, efficiency, safety, recyclability, UK supply-chain resilience, delivery constraints and expected grid-service revenues.
 
-⚡ Phase 3: Stronger national electricity networks and electrification support.
+## Who benefits?
 
-🚢 Phase 4: Future international export and interconnection capacity.
+- **Households:** greater energy resilience and the potential for lower system costs and a defined Household Energy Dividend as sustainable surpluses develop.
+- **Businesses:** more stable energy costs, stronger infrastructure and improved competitiveness.
+- **The country:** a permanent portfolio of productive assets generating long-term public income.
+- **Future generations:** an inherited asset rather than an inherited spending commitment.
 
-👥 Who Benefits?
+## How is it protected?
 
-🇬🇧 For the Nation: A permanent energy asset worth £70–100bn+ delivering cheap, reliable, clean power.
+The NRF operates at arm's length from day-to-day government. Its assets and revenues are legally ring-fenced for its energy-infrastructure mandate.
 
-🏠 For Households: Reduced standing charges and lower energy bills through an operational surplus dividend.
+Its governance framework is designed to **create exceptional statutory and institutional barriers to political interference**, supported by independent governance, enhanced parliamentary safeguards, independent audit and a public National Energy Dashboard.
 
-🏭 For Businesses: Access to stable, lower-cost energy, providing a massive competitive advantage for UK-based industry.
+## When do the contributions stop?
 
-🎖️ For Contributors: A "Patriotic Dividend" model that replaces the friction of permanent wealth taxes with high-honor national stewardship.
+The **Sunset Clause** ends the contribution mechanism when independently audited forecasts demonstrate that recurring NRF operating cashflows can fund the approved long-term infrastructure programme, maintenance, reserves and resilience requirements without further external capital contributions.
 
-🔐 Why the NRF is Unique
+There is an absolute maximum of four decadal contribution cycles, and contributions may end much earlier if operational self-sufficiency is achieved.
 
-🔒 Double-Lock Governance: A statutory mechanism prevents future governments from raiding the fund for general spending. Any change requires a dual mandate from Parliament and an Independent Board of Trustees.
-
-🌅 Success-Bound Sunset Clause: The contribution mechanism is legally mandated to end once audited "Trigger Milestones" are met—specifically an £80bn asset valuation or a £4bn annual operating surplus.
-
-🔄 Self-Financing: All revenues are reinvested into the asset base until the fund becomes fully self-sufficient.
+**The contributions end. The national asset remains.**
